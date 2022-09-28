@@ -1,6 +1,6 @@
 # How to Resize Images in Flutter
 
-You can find the original article on [IMG.LY](https://img.ly/blog/)
+You can find the original article on [IMG.LY](https://img.ly/blog/how-to-resize-images-in-flutter/)
 
 ## Getting Started
 
